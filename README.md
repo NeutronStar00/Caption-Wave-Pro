@@ -1,4 +1,4 @@
-# Caption Wave Pro (Desktop Version)
+# Caption Wave Pro (PC Version)
 
 Caption Wave Pro is a user-friendly desktop application that automatically generates and overlays captions on video files. It uses state-of-the-art speech recognition technology to transcribe the audio and creates visually appealing, synchronized captions.
 
